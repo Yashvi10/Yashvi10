@@ -1,6 +1,4 @@
-Hi there! I'm Yashvi Lad, a graduate student at Dalhousie University, Halifax, Nova Scotia.
-CHARUSAT University, Gujarat, India Alumna.
-
+Hi there! I'm Yashvi Lad, a graduate student at Dalhousie University, Halifax, Nova Scotia and Alumna at CHARUSAT University, Gujarat, India.
 - 🔭 A Software Developer and Cloud Engineer. 
 - 🌱 I’m currently learning DEFI Protocols and it's implementation in Node.js
 - 📫 I can be reached at:
